@@ -1,0 +1,6 @@
+{
+    "id":  "mochi-ragdoll-pixel",
+    "displayName":  "Mochi Ragdoll Pixel",
+    "description":  "A pixel-art ragdoll cat Codex companion based on the user\u0027s cat face, with blue eyes, teal scarf, and a natural fluffy tail.",
+    "spritesheetPath":  "spritesheet.webp"
+}
