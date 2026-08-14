@@ -7,10 +7,10 @@ Two custom animated pets for Codex: **Difei** and **Mochi Ragdoll Pixel**.
 <table>
   <tr>
     <td align="center">
-      <img src="./face-foot-pet/spritesheet.webp" alt="Difei animated pet spritesheet" width="420">
+      <img src="./face-foot-pet/preview.png" alt="Difei pet preview" width="192">
     </td>
     <td align="center">
-      <img src="./mochi-ragdoll-pixel/spritesheet.webp" alt="Mochi Ragdoll Pixel animated pet spritesheet" width="420">
+      <img src="./mochi-ragdoll-pixel/preview.png" alt="Mochi Ragdoll Pixel pet preview" width="192">
     </td>
   </tr>
   <tr>
@@ -75,9 +75,11 @@ Copy-Item -LiteralPath ".\mochi-ragdoll-pixel" `
 codex-pet-cat/
 ├── face-foot-pet/
 │   ├── pet.json
+│   ├── preview.png
 │   └── spritesheet.webp
 ├── mochi-ragdoll-pixel/
 │   ├── pet.json
+│   ├── preview.png
 │   └── spritesheet.webp
 └── README.md
 ```
@@ -85,6 +87,7 @@ codex-pet-cat/
 Each pet package contains:
 
 - `pet.json`: pet metadata and spritesheet configuration.
+- `preview.png`: lightweight pet preview used by this README.
 - `spritesheet.webp`: transparent animated sprite atlas.
 
 ## Notes
