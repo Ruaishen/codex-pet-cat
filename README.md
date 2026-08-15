@@ -30,7 +30,7 @@ Two custom animated pets for Codex: **Difei** and **Mochi Ragdoll Pixel**.
 Clone this repository:
 
 ```powershell
-git clone https://github.com/JingsongWang04/codex-pet-cat.git
+git clone https://github.com/Ruaishen/codex-pet-cat.git
 Set-Location codex-pet-cat
 ```
 
