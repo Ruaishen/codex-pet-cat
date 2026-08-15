@@ -95,7 +95,3 @@ Each pet package contains:
 - These pets use the standard 8-column × 9-row Codex pet spritesheet format.
 - Do not rename a pet directory unless you also update the `id` in its `pet.json` file.
 - Existing folders with the same names will be overwritten by the PowerShell installation commands above.
-
-## License
-
-No license has been added yet. Unless a license is added, the repository contents remain protected by default copyright rules.
